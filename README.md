@@ -9,7 +9,7 @@ Le code présenté ici comprend:
 ## Jeu Speed Images
 
 <div align="center">
-  <img width="80%" alt="Jeu Speed Images pour la détection des potentiels d'erreur" src="assets/Example.png">
+  <img width="30%" alt="Jeu Speed Images pour la détection des potentiels d'erreur" src="assets/Example.png">
 </div>
 
 - **Principe du jeu:** les joueurs doivent dire si les composants affichés sont strictement identiques ou non
@@ -23,16 +23,16 @@ Le code présenté ici comprend:
     - Une barre de score au-dessus permet de stimuler le joueur
     - Toutes les 3 secondes, un message apparaît sur l’écran afin de dire au joueur s’il a réussi (BRAVO) ou perdu (DOMMAGE)
 <div align="center">
-  <img width="80%" alt="Situations de match et clash" src="assets/match_clash.png">
+  <img width="30%" alt="Situations de match et clash" src="assets/match_clash.png">
 </div>
 
 - **Resultats**
     - Nous observons une baisse de l’amplitude sur les électrodes Fz et Cz lors des mauvais clic du joueur
 <div align="center">
-  <img width="80%" src="assets/clic.png">
+  <img width="30%" src="assets/clic.png">
 </div>
 
     - Nous observons une grande variation de l’amplitude des électrodes Fz et Cz lors de mauvais feedbacks de l’interface
 <div align="center">
-  <img width="80%" src="assets/feedback.png">
+  <img width="30%" src="assets/feedback.png">
 </div>
