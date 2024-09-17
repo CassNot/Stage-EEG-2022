@@ -28,11 +28,11 @@ Le code présenté ici comprend:
 
 - **Resultats**
     - Nous observons une baisse de l’amplitude sur les électrodes Fz et Cz lors des mauvais clic du joueur
+    - Nous observons une grande variation de l’amplitude des électrodes Fz et Cz lors de mauvais feedbacks de l’interface
 <div align="center">
   <img width="30%" src="assets/clic.png">
 </div>
-
-    - Nous observons une grande variation de l’amplitude des électrodes Fz et Cz lors de mauvais feedbacks de l’interface
+    
 <div align="center">
   <img width="30%" src="assets/feedback.png">
 </div>
